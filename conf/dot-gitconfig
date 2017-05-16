@@ -6,7 +6,7 @@
 	default = tracking
 
 [core]
-	excludesfile = /PATH/TO/jr-config/conf/gitignore-global
+	excludesfile = /Users/Geoff/repos/jr-config/conf/gitignore-global
 	pager = less -+$LESS -R
 	ignorecase = true
 
@@ -58,3 +58,7 @@
 	added = 27
 	changed = 166
 	untracked = 244
+
+[user]
+	name = Geoff Miller
+	email = gmiller@janrain.com
